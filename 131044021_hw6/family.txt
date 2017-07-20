@@ -1,0 +1,12 @@
+Hasan
+Ayse, Hasan, ebu-Ayse
+Ali, Ayse, ibn-Hasan
+Sema, Hasan, ebu-Ayse
+Sefa, Sema, ibn-Ayse
+Huseyin, Ali, ibn-Ayse
+Melike, Hasan, ebu-Sema
+Busra, Sefa, ebu-Busra
+Yagmur, Ayse, ibn-Hasan
+Kiraz, Ali, ibn-Ayse
+Asli, Melike, ebu-Asli
+Melihsah, Melike, ebu-Asli
