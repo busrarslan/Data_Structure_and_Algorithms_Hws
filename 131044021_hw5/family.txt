@@ -1,0 +1,5 @@
+Hasan
+Ayse, Hasan, ebu-Ayse
+Ali, Ayse, ibn-Hasan
+Sema, Hasan, ebu-Ayse
+Sefa, Sema, ibn-Ayse
